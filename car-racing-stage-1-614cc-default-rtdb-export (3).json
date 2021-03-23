@@ -1,0 +1,27 @@
+{
+  "carsAtEnd" : 4,
+  "gameState" : 1,
+  "playerCount" : 4,
+  "players" : {
+    "player1" : {
+      "distance" : 310,
+      "name" : "Name",
+      "rank" : 1
+    },
+    "player2" : {
+      "distance" : 310,
+      "name" : "Name",
+      "rank" : 2
+    },
+    "player3" : {
+      "distance" : 310,
+      "name" : "Name",
+      "rank" : 3
+    },
+    "player4" : {
+      "distance" : 310,
+      "name" : "Name",
+      "rank" : 4
+    }
+  }
+}
